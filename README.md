@@ -3,7 +3,7 @@
 
 <h4 align="center">Connect with me on LinkedIn:</h4>
 <p align="center">
-  <a href="www.linkedin.com/in/pouya-mazloumpour/">
+  <a href="https://www.linkedin.com/in/pouya-mazloumpour/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
